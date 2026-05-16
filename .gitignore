@@ -1,0 +1,17 @@
+.env
+.env*.local
+.data
+.next
+.vercel
+node_modules
+tsconfig.tsbuildinfo
+npm-debug.log*
+.next-dev.log
+.next-dev.err
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist
+out
+
+.vercel
